@@ -1,1 +1,2 @@
-I want this change!
+And this is my changed text
+moreI want this change!
